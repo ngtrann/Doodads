@@ -2,7 +2,7 @@ In Class exercise
 ============
 1. Open Processing and copy the code from Doodads.pde into Processing.
 2. Save your programs as "DoodadsProgram" or just "Doodads" but NOT "Doodad."
-3. Open a new tab in processing and name the file "Doodad.java." Copy in the code from 
+3. Open a new tab in processing and name the file "Doodad.java." Copy in the code for the Doodad class.
 4. Run the program. You should get an error message that says `The field Doodad.myNum is not visible` because the *client* code in `setup()` is trying to access a `private` member variable.
 5. Fix the program by 
   * finishing the two setter and getter functions in `Doodad.java`
